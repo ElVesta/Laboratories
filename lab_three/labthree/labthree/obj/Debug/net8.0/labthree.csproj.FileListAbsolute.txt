@@ -1,0 +1,14 @@
+D:\ООП\lab_three\labthree\labthree\bin\Debug\net8.0\labthree.exe
+D:\ООП\lab_three\labthree\labthree\bin\Debug\net8.0\labthree.deps.json
+D:\ООП\lab_three\labthree\labthree\bin\Debug\net8.0\labthree.runtimeconfig.json
+D:\ООП\lab_three\labthree\labthree\bin\Debug\net8.0\labthree.dll
+D:\ООП\lab_three\labthree\labthree\bin\Debug\net8.0\labthree.pdb
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\labthree.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\labthree.AssemblyInfoInputs.cache
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\labthree.AssemblyInfo.cs
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\labthree.csproj.CoreCompileInputs.cache
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\labthree.dll
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\refint\labthree.dll
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\labthree.pdb
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\labthree.genruntimeconfig.cache
+D:\ООП\lab_three\labthree\labthree\obj\Debug\net8.0\ref\labthree.dll
